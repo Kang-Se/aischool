@@ -1,0 +1,68 @@
+{
+    "students": [
+        {
+            "userno": "1",
+            "nameid": "john",
+            "password": "3342",
+            "age" : 16,
+            "username": "존"
+        },
+        {
+            "userno": "2",
+            "nameid": "Mari",
+            "password": "7663",
+            "age" : 25,
+            "username": "마리"
+        },
+        {
+            "userno": "3",
+            "nameid": "Jack",
+            "password": "4432",
+            "age" : 15,
+            "username": "잭"
+        },
+        {
+            "userno": "4",
+            "nameid": "Ai",
+            "password": "5544",
+            "age" : 24,
+            "username": "아이"
+        }
+    ],
+    "interest": [
+        {
+            "userno": "1",
+            "field" : "Application Developer"
+        },
+        {
+            "userno": "2",
+            "field": "DB Engineer"
+        },
+        {
+            "userno": "3",
+            "field" : "Dev Ops Engineer"
+        },
+        {
+            "userno" : "4",
+            "field"  : "Data Scientist"
+        }
+    ],
+    "purpose": [
+        {
+            "userno" : "1",
+            "goal" : "want to develop hybrid app"
+        },
+        {
+            "userno" : "2",
+            "goal" : "want to learn hadoop and Cassandra"
+        },
+        {
+            "userno" : "3",
+            "goal" : "want to learn AWS"
+        },
+        {
+            "userno" : "4",
+            "goal" : "want to communicate many people"
+        }
+    ]
+}
